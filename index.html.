@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Johnvalentine Agugo | Customer Success and Energy Engineering</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Johnvalentine Chizuroke Agugo</h1>
+    <p class="tagline">Helping customers get lasting value from complex technology</p>
+    <p class="sub">Customer Success Specialist | Electrical Engineer | AI-Powered Energy Monitoring</p>
+    <a class="button" href="#contact">Get in touch</a>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <img class="profile" src="images/profile.jpg" alt="Johnvalentine Agugo on a solar rooftop installation">
+      <p>I am an electrical engineer and customer success professional with a track record of keeping complex energy systems running and customers confident long after installation. I have personally delivered more than 3 megawatts of solar and smart energy installations across Nigeria, and I now bring that same care for customers to the software side of customer success.</p>
+      <p>I design systems for remote monitoring and troubleshooting, using platforms such as Odyssey Energy alongside AI-driven usage tracking. This approach cut my site travel by nearly 73% and gave customers faster support.</p>
+    </section>
+
+    <section id="experience">
+      <h2>Experience</h2>
+      <div class="job">
+        <h3>Lead Engineer, Muizade Power Ltd</h3>
+        <p class="date">July 2026 to Present (NYSC)</p>
+        <p>Lead solar and smart energy projects from design to commissioning, with remote monitoring and AI-driven usage tracking for customers.</p>
+      </div>
+      <div class="job">
+        <h3>Founder, GIA Electric</h3>
+        <p class="date">2020 to July 2026 (self-employed)</p>
+        <p>Delivered residential and commercial solar systems from 3 kVA to 50 kVA, managing teams of 2 to 20 technicians.</p>
+      </div>
+      <div class="job">
+        <h3>Technical Advisor, Data Chain Nig Ltd</h3>
+        <p class="date">December 2022 to February 2025</p>
+        <p>Advised on data and energy projects using MySQL and Excel, and supported solar solutions for clients.</p>
+      </div>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="gallery">
+        <figure>
+          <img src="images/felicity-installation.jpg" alt="Felicity Solar inverters with batteries and fire safety balls">
+          <figcaption>Felicity Solar installation with safety measures</figcaption>
+        </figure>
+        <figure>
+          <img src="images/growatt-inverters.jpg" alt="Five Growatt solar inverters mounted on a wall">
+          <figcaption>Growatt inverter installation</figcaption>
+        </figure>
+        <figure>
+          <img src="images/srne-installation.jpg" alt="Three SRNE inverters above battery cabinets">
+          <figcaption>SRNE inverters with battery storage</figcaption>
+        </figure>
+        <figure>
+          <img src="images/ecolion-4-5kw.jpg" alt="Ecolion 4.5 kilowatt inverter with battery">
+          <figcaption>Ecolion 4.5 kW inverter and battery</figcaption>
+        </figure>
+        <figure>
+          <img src="images/alpsolar-ecolion.jpg" alt="AlpSolar inverter with two Ecolion batteries">
+          <figcaption>AlpSolar inverter with Ecolion batteries</figcaption>
+        </figure>
+        <figure>
+          <img src="images/ground-mount-array.jpg" alt="Ground-mounted solar array with street light">
+          <figcaption>Ground-mounted solar array</figcaption>
+        </figure>
+        <figure>
+          <img src="images/rooftop-work.jpg" alt="Engineer working on a rooftop solar array at sunset">
+          <figcaption>Rooftop array installation</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section id="skills">
+      <h2>Skills</h2>
+      <ul class="skills">
+        <li>Customer Success</li>
+        <li>Technical Support</li>
+        <li>Energy Monitoring</li>
+        <li>Customer Onboarding</li>
+        <li>Solar Installation</li>
+        <li>Smart Grid</li>
+        <li>MySQL and Excel</li>
+        <li>AI Prompt Engineering</li>
+        <li>Team Leadership</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:johnvalagugo133@gmail.com">johnvalagugo133@gmail.com</a></p>
+      <p>Based in Lagos, Nigeria</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 Johnvalentine Chizuroke Agugo</p>
+  </footer>
+
+</body>
+</html>
